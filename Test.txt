@@ -1,0 +1,8 @@
+
+CRM Entities
+
+Accounts
+Contacts
+Leads
+opportunities
+Sales
