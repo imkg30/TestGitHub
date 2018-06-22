@@ -6,3 +6,4 @@ Contacts
 Leads
 opportunities
 Sales
+Cases
